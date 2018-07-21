@@ -1,0 +1,3795 @@
+{
+    "links": [
+        {
+            "text": "Node.js",
+            "url": "https://github.com/sindresorhus/awesome-nodejs",
+            "title": null,
+            "shortname": [
+                "sindresorhus/awesome-nodejs",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Frontend Development",
+            "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
+            "title": null,
+            "shortname": [
+                "dypsilon/frontend-dev-bookmarks",
+                "README.md"
+            ]
+        },
+        {
+            "text": "iOS",
+            "url": "https://github.com/vsouza/awesome-ios",
+            "title": null,
+            "shortname": [
+                "vsouza/awesome-ios",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Android",
+            "url": "https://github.com/JStumpp/awesome-android",
+            "title": null,
+            "shortname": [
+                "JStumpp/awesome-android",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "IoT & Hybrid Apps",
+            "url": "https://github.com/weblancaster/awesome-IoT-hybrid",
+            "title": null,
+            "shortname": [
+                "weblancaster/awesome-IoT-hybrid",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Electron",
+            "url": "https://github.com/sindresorhus/awesome-electron",
+            "title": null,
+            "shortname": [
+                "sindresorhus/awesome-electron",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Cordova",
+            "url": "https://github.com/busterc/awesome-cordova",
+            "title": null,
+            "shortname": [
+                "busterc/awesome-cordova",
+                "README.md"
+            ]
+        },
+        {
+            "text": "React Native",
+            "url": "https://github.com/jondot/awesome-react-native",
+            "title": null,
+            "shortname": [
+                "jondot/awesome-react-native",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Xamarin",
+            "url": "https://github.com/benoitjadinon/awesome-xamarin",
+            "title": null,
+            "shortname": [
+                "benoitjadinon/awesome-xamarin",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Linux",
+            "url": "https://github.com/aleksandar-todorovic/awesome-linux",
+            "title": null,
+            "shortname": [
+                "aleksandar-todorovic/awesome-linux",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Containers",
+            "url": "https://github.com/Friz-zy/awesome-linux-containers",
+            "title": null,
+            "shortname": [
+                "Friz-zy/awesome-linux-containers",
+                "README.md"
+            ]
+        },
+        {
+            "text": "macOS",
+            "url": "https://github.com/iCHAIT/awesome-macOS",
+            "title": null,
+            "shortname": [
+                "iCHAIT/awesome-macOS",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Command-Line",
+            "url": "https://github.com/herrbischoff/awesome-macos-command-line",
+            "title": null,
+            "shortname": [
+                "herrbischoff/awesome-macos-command-line",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Screensavers",
+            "url": "https://github.com/agarrharr/awesome-macos-screensavers",
+            "title": null,
+            "shortname": [
+                "agarrharr/awesome-macos-screensavers",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "watchOS",
+            "url": "https://github.com/yenchenlin/awesome-watchos",
+            "title": null,
+            "shortname": [
+                "yenchenlin/awesome-watchos",
+                "README.md"
+            ]
+        },
+        {
+            "text": "JVM",
+            "url": "https://github.com/deephacks/awesome-jvm",
+            "title": null,
+            "shortname": [
+                "deephacks/awesome-jvm",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Salesforce",
+            "url": "https://github.com/mailtoharshit/awesome-salesforce",
+            "title": null,
+            "shortname": [
+                "mailtoharshit/awesome-salesforce",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Amazon Web Services",
+            "url": "https://github.com/donnemartin/awesome-aws",
+            "title": null,
+            "shortname": [
+                "donnemartin/awesome-aws",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Windows",
+            "url": "https://github.com/Awesome-Windows/Awesome",
+            "title": null,
+            "shortname": [
+                "Awesome-Windows/Awesome",
+                "README.md"
+            ]
+        },
+        {
+            "text": "IPFS",
+            "url": "https://github.com/ipfs/awesome-ipfs",
+            "title": null,
+            "shortname": [
+                "ipfs/awesome-ipfs",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Fuse",
+            "url": "https://github.com/vinkla/awesome-fuse",
+            "title": null,
+            "shortname": [
+                "vinkla/awesome-fuse",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Heroku",
+            "url": "https://github.com/ianstormtaylor/awesome-heroku",
+            "title": null,
+            "shortname": [
+                "ianstormtaylor/awesome-heroku",
+                "Readme.md"
+            ]
+        },
+        {
+            "text": "Raspberry Pi",
+            "url": "https://github.com/thibmaek/awesome-raspberry-pi",
+            "title": null,
+            "shortname": [
+                "thibmaek/awesome-raspberry-pi",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Qt",
+            "url": "https://github.com/JesseTG/awesome-qt",
+            "title": null,
+            "shortname": [
+                "JesseTG/awesome-qt",
+                "README.md"
+            ]
+        },
+        {
+            "text": "WebExtensions",
+            "url": "https://github.com/bfred-it/Awesome-WebExtensions",
+            "title": null,
+            "shortname": [
+                "bfred-it/Awesome-WebExtensions",
+                "README.md"
+            ]
+        },
+        {
+            "text": "RubyMotion",
+            "url": "https://github.com/motion-open-source/awesome-rubymotion",
+            "title": null,
+            "shortname": [
+                "motion-open-source/awesome-rubymotion",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Smart TV",
+            "url": "https://github.com/vitalets/awesome-smart-tv",
+            "title": null,
+            "shortname": [
+                "vitalets/awesome-smart-tv",
+                "README.md"
+            ]
+        },
+        {
+            "text": "GNOME",
+            "url": "https://github.com/Kazhnuz/awesome-gnome",
+            "title": null,
+            "shortname": [
+                "Kazhnuz/awesome-gnome",
+                "README.md"
+            ]
+        },
+        {
+            "text": "JavaScript",
+            "url": "https://github.com/sorrycc/awesome-javascript",
+            "title": null,
+            "shortname": [
+                "sorrycc/awesome-javascript",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Promises",
+            "url": "https://github.com/wbinnssmith/awesome-promises",
+            "title": null,
+            "shortname": [
+                "wbinnssmith/awesome-promises",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Standard Style",
+            "url": "https://github.com/standard/awesome-standard",
+            "title": null,
+            "shortname": [
+                "standard/awesome-standard",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Must Watch Talks",
+            "url": "https://github.com/bolshchikov/js-must-watch",
+            "title": null,
+            "shortname": [
+                "bolshchikov/js-must-watch",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Tips",
+            "url": "https://github.com/loverajoel/jstips",
+            "title": null,
+            "shortname": [
+                "loverajoel/jstips",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Network Layer",
+            "url": "https://github.com/Kikobeats/awesome-network-js",
+            "title": null,
+            "shortname": [
+                "Kikobeats/awesome-network-js",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Micro npm Packages",
+            "url": "https://github.com/parro-it/awesome-micro-npm-packages",
+            "title": null,
+            "shortname": [
+                "parro-it/awesome-micro-npm-packages",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Mad Science npm Packages",
+            "url": "https://github.com/feross/awesome-mad-science",
+            "title": null,
+            "shortname": [
+                "feross/awesome-mad-science",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Maintenance Modules",
+            "url": "https://github.com/maxogden/maintenance-modules",
+            "title": null,
+            "shortname": [
+                "maxogden/maintenance-modules",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "npm",
+            "url": "https://github.com/sindresorhus/awesome-npm",
+            "title": null,
+            "shortname": [
+                "sindresorhus/awesome-npm",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "AVA",
+            "url": "https://github.com/avajs/awesome-ava",
+            "title": null,
+            "shortname": [
+                "avajs/awesome-ava",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "ESLint",
+            "url": "https://github.com/dustinspecker/awesome-eslint",
+            "title": null,
+            "shortname": [
+                "dustinspecker/awesome-eslint",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Functional Programming",
+            "url": "https://github.com/stoeffel/awesome-fp-js",
+            "title": null,
+            "shortname": [
+                "stoeffel/awesome-fp-js",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Observables",
+            "url": "https://github.com/sindresorhus/awesome-observables",
+            "title": null,
+            "shortname": [
+                "sindresorhus/awesome-observables",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "npm scripts",
+            "url": "https://github.com/RyanZim/awesome-npm-scripts",
+            "title": null,
+            "shortname": [
+                "RyanZim/awesome-npm-scripts",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Swift",
+            "url": "https://github.com/matteocrippa/awesome-swift",
+            "title": null,
+            "shortname": [
+                "matteocrippa/awesome-swift",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Education",
+            "url": "https://github.com/hsavit1/Awesome-Swift-Education",
+            "title": null,
+            "shortname": [
+                "hsavit1/Awesome-Swift-Education",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Playgrounds",
+            "url": "https://github.com/uraimo/Awesome-Swift-Playgrounds",
+            "title": null,
+            "shortname": [
+                "uraimo/Awesome-Swift-Playgrounds",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Python",
+            "url": "https://github.com/vinta/awesome-python",
+            "title": null,
+            "shortname": [
+                "vinta/awesome-python",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Asyncio",
+            "url": "https://github.com/timofurrer/awesome-asyncio",
+            "title": null,
+            "shortname": [
+                "timofurrer/awesome-asyncio",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Scientific Audio",
+            "url": "https://github.com/faroit/awesome-python-scientific-audio",
+            "title": null,
+            "shortname": [
+                "faroit/awesome-python-scientific-audio",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Rust",
+            "url": "https://github.com/rust-unofficial/awesome-rust",
+            "title": null,
+            "shortname": [
+                "rust-unofficial/awesome-rust",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Haskell",
+            "url": "https://github.com/krispo/awesome-haskell",
+            "title": null,
+            "shortname": [
+                "krispo/awesome-haskell",
+                "README.md"
+            ]
+        },
+        {
+            "text": "PureScript",
+            "url": "https://github.com/passy/awesome-purescript",
+            "title": null,
+            "shortname": [
+                "passy/awesome-purescript",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Go",
+            "url": "https://github.com/avelino/awesome-go",
+            "title": null,
+            "shortname": [
+                "avelino/awesome-go",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Scala",
+            "url": "https://github.com/lauris/awesome-scala",
+            "title": null,
+            "shortname": [
+                "lauris/awesome-scala",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Ruby",
+            "url": "https://github.com/markets/awesome-ruby",
+            "title": null,
+            "shortname": [
+                "markets/awesome-ruby",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Clojure",
+            "url": "https://github.com/razum2um/awesome-clojure",
+            "title": null,
+            "shortname": [
+                "razum2um/awesome-clojure",
+                "README.md"
+            ]
+        },
+        {
+            "text": "ClojureScript",
+            "url": "https://github.com/hantuzun/awesome-clojurescript",
+            "title": null,
+            "shortname": [
+                "hantuzun/awesome-clojurescript",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Elixir",
+            "url": "https://github.com/h4cc/awesome-elixir",
+            "title": null,
+            "shortname": [
+                "h4cc/awesome-elixir",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Elm",
+            "url": "https://github.com/isRuslan/awesome-elm",
+            "title": null,
+            "shortname": [
+                "isRuslan/awesome-elm",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Erlang",
+            "url": "https://github.com/drobakowski/awesome-erlang",
+            "title": null,
+            "shortname": [
+                "drobakowski/awesome-erlang",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Julia",
+            "url": "https://github.com/svaksha/Julia.jl",
+            "title": null,
+            "shortname": [
+                "svaksha/Julia.jl",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Lua",
+            "url": "https://github.com/LewisJEllis/awesome-lua",
+            "title": null,
+            "shortname": [
+                "LewisJEllis/awesome-lua",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "C",
+            "url": "https://github.com/aleksandar-todorovic/awesome-c",
+            "title": null,
+            "shortname": [
+                "aleksandar-todorovic/awesome-c",
+                "README.md"
+            ]
+        },
+        {
+            "text": "C/C++",
+            "url": "https://github.com/fffaraz/awesome-cpp",
+            "title": null,
+            "shortname": [
+                "fffaraz/awesome-cpp",
+                "README.md"
+            ]
+        },
+        {
+            "text": "R",
+            "url": "https://github.com/qinwf/awesome-R",
+            "title": null,
+            "shortname": [
+                "qinwf/awesome-R",
+                "README.md"
+            ]
+        },
+        {
+            "text": "D",
+            "url": "https://github.com/zhaopuming/awesome-d",
+            "title": null,
+            "shortname": [
+                "zhaopuming/awesome-d",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Common Lisp",
+            "url": "https://github.com/CodyReichert/awesome-cl",
+            "title": null,
+            "shortname": [
+                "CodyReichert/awesome-cl",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Perl",
+            "url": "https://github.com/hachiojipm/awesome-perl",
+            "title": null,
+            "shortname": [
+                "hachiojipm/awesome-perl",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Groovy",
+            "url": "https://github.com/kdabir/awesome-groovy",
+            "title": null,
+            "shortname": [
+                "kdabir/awesome-groovy",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Dart",
+            "url": "https://github.com/yissachar/awesome-dart",
+            "title": null,
+            "shortname": [
+                "yissachar/awesome-dart",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Java",
+            "url": "https://github.com/akullpp/awesome-java",
+            "title": null,
+            "shortname": [
+                "akullpp/awesome-java",
+                "README.md"
+            ]
+        },
+        {
+            "text": "RxJava",
+            "url": "https://github.com/eleventigers/awesome-rxjava",
+            "title": null,
+            "shortname": [
+                "eleventigers/awesome-rxjava",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Kotlin",
+            "url": "https://github.com/KotlinBy/awesome-kotlin",
+            "title": null,
+            "shortname": [
+                "KotlinBy/awesome-kotlin",
+                "README.md"
+            ]
+        },
+        {
+            "text": "OCaml",
+            "url": "https://github.com/rizo/awesome-ocaml",
+            "title": null,
+            "shortname": [
+                "rizo/awesome-ocaml",
+                "README.md"
+            ]
+        },
+        {
+            "text": "ColdFusion",
+            "url": "https://github.com/seancoyne/awesome-coldfusion",
+            "title": null,
+            "shortname": [
+                "seancoyne/awesome-coldfusion",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Fortran",
+            "url": "https://github.com/rabbiabram/awesome-fortran",
+            "title": null,
+            "shortname": [
+                "rabbiabram/awesome-fortran",
+                "README.md"
+            ]
+        },
+        {
+            "text": ".NET",
+            "url": "https://github.com/quozd/awesome-dotnet",
+            "title": null,
+            "shortname": [
+                "quozd/awesome-dotnet",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Core",
+            "url": "https://github.com/thangchung/awesome-dotnet-core",
+            "title": null,
+            "shortname": [
+                "thangchung/awesome-dotnet-core",
+                "README.md"
+            ]
+        },
+        {
+            "text": "PHP",
+            "url": "https://github.com/ziadoz/awesome-php",
+            "title": null,
+            "shortname": [
+                "ziadoz/awesome-php",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Composer",
+            "url": "https://github.com/jakoch/awesome-composer",
+            "title": null,
+            "shortname": [
+                "jakoch/awesome-composer",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Delphi",
+            "url": "https://github.com/Fr0sT-Brutal/awesome-delphi",
+            "title": null,
+            "shortname": [
+                "Fr0sT-Brutal/awesome-delphi",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Assembler",
+            "url": "https://github.com/jaspergould/awesome-asm",
+            "title": null,
+            "shortname": [
+                "jaspergould/awesome-asm",
+                "README.md"
+            ]
+        },
+        {
+            "text": "AutoHotkey",
+            "url": "https://github.com/ahkscript/awesome-AutoHotkey",
+            "title": null,
+            "shortname": [
+                "ahkscript/awesome-AutoHotkey",
+                "README.md"
+            ]
+        },
+        {
+            "text": "AutoIt",
+            "url": "https://github.com/J2TeaM/awesome-AutoIt",
+            "title": null,
+            "shortname": [
+                "J2TeaM/awesome-AutoIt",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Crystal",
+            "url": "https://github.com/veelenga/awesome-crystal",
+            "title": null,
+            "shortname": [
+                "veelenga/awesome-crystal",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Frege",
+            "url": "https://github.com/sfischer13/awesome-frege",
+            "title": null,
+            "shortname": [
+                "sfischer13/awesome-frege",
+                "README.md"
+            ]
+        },
+        {
+            "text": "CMake",
+            "url": "https://github.com/onqtam/awesome-cmake",
+            "title": null,
+            "shortname": [
+                "onqtam/awesome-cmake",
+                "README.md"
+            ]
+        },
+        {
+            "text": "ActionScript 3",
+            "url": "https://github.com/robinrodricks/awesome-actionscript3",
+            "title": null,
+            "shortname": [
+                "robinrodricks/awesome-actionscript3",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Eta",
+            "url": "https://github.com/sfischer13/awesome-eta",
+            "title": null,
+            "shortname": [
+                "sfischer13/awesome-eta",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Idris",
+            "url": "https://github.com/joaomilho/awesome-idris",
+            "title": null,
+            "shortname": [
+                "joaomilho/awesome-idris",
+                "README.md"
+            ]
+        },
+        {
+            "text": "ES6 Tools",
+            "url": "https://github.com/addyosmani/es6-tools",
+            "title": null,
+            "shortname": [
+                "addyosmani/es6-tools",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Web Performance Optimization",
+            "url": "https://github.com/davidsonfellipe/awesome-wpo",
+            "title": null,
+            "shortname": [
+                "davidsonfellipe/awesome-wpo",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Web Tools",
+            "url": "https://github.com/lvwzhen/tools",
+            "title": null,
+            "shortname": [
+                "lvwzhen/tools",
+                "README.md"
+            ]
+        },
+        {
+            "text": "CSS",
+            "url": "https://github.com/awesome-css-group/awesome-css",
+            "title": null,
+            "shortname": [
+                "awesome-css-group/awesome-css",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Critical-Path Tools",
+            "url": "https://github.com/addyosmani/critical-path-css-tools",
+            "title": null,
+            "shortname": [
+                "addyosmani/critical-path-css-tools",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Scalability",
+            "url": "https://github.com/davidtheclark/scalable-css-reading-list",
+            "title": null,
+            "shortname": [
+                "davidtheclark/scalable-css-reading-list",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Must-Watch Talks",
+            "url": "https://github.com/AllThingsSmitty/must-watch-css",
+            "title": null,
+            "shortname": [
+                "AllThingsSmitty/must-watch-css",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Protips",
+            "url": "https://github.com/AllThingsSmitty/css-protips",
+            "title": null,
+            "shortname": [
+                "AllThingsSmitty/css-protips",
+                "README.md"
+            ]
+        },
+        {
+            "text": "React",
+            "url": "https://github.com/enaqx/awesome-react",
+            "title": null,
+            "shortname": [
+                "enaqx/awesome-react",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Relay",
+            "url": "https://github.com/expede/awesome-relay",
+            "title": null,
+            "shortname": [
+                "expede/awesome-relay",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Web Components",
+            "url": "https://github.com/mateusortiz/webcomponents-the-right-way",
+            "title": null,
+            "shortname": [
+                "mateusortiz/webcomponents-the-right-way",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Polymer",
+            "url": "https://github.com/Granze/awesome-polymer",
+            "title": null,
+            "shortname": [
+                "Granze/awesome-polymer",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Angular",
+            "url": "https://github.com/gdi2290/awesome-angular",
+            "title": null,
+            "shortname": [
+                "gdi2290/awesome-angular",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Backbone",
+            "url": "https://github.com/sadcitizen/awesome-backbone",
+            "title": null,
+            "shortname": [
+                "sadcitizen/awesome-backbone",
+                "README.md"
+            ]
+        },
+        {
+            "text": "HTML5",
+            "url": "https://github.com/diegocard/awesome-html5",
+            "title": null,
+            "shortname": [
+                "diegocard/awesome-html5",
+                "README.md"
+            ]
+        },
+        {
+            "text": "SVG",
+            "url": "https://github.com/willianjusten/awesome-svg",
+            "title": null,
+            "shortname": [
+                "willianjusten/awesome-svg",
+                "Readme.md"
+            ]
+        },
+        {
+            "text": "Canvas",
+            "url": "https://github.com/raphamorim/awesome-canvas",
+            "title": null,
+            "shortname": [
+                "raphamorim/awesome-canvas",
+                "README.md"
+            ]
+        },
+        {
+            "text": "KnockoutJS",
+            "url": "https://github.com/dnbard/awesome-knockout",
+            "title": null,
+            "shortname": [
+                "dnbard/awesome-knockout",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Dojo Toolkit",
+            "url": "https://github.com/petk/awesome-dojo",
+            "title": null,
+            "shortname": [
+                "petk/awesome-dojo",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Inspiration",
+            "url": "https://github.com/NoahBuscher/Inspire",
+            "title": null,
+            "shortname": [
+                "NoahBuscher/Inspire",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Ember",
+            "url": "https://github.com/nmec/awesome-ember",
+            "title": null,
+            "shortname": [
+                "nmec/awesome-ember",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Android UI",
+            "url": "https://github.com/wasabeef/awesome-android-ui",
+            "title": null,
+            "shortname": [
+                "wasabeef/awesome-android-ui",
+                "README.md"
+            ]
+        },
+        {
+            "text": "iOS UI",
+            "url": "https://github.com/cjwirth/awesome-ios-ui",
+            "title": null,
+            "shortname": [
+                "cjwirth/awesome-ios-ui",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Meteor",
+            "url": "https://github.com/Urigo/awesome-meteor",
+            "title": null,
+            "shortname": [
+                "Urigo/awesome-meteor",
+                "README.md"
+            ]
+        },
+        {
+            "text": "BEM",
+            "url": "https://github.com/sturobson/BEM-resources",
+            "title": null,
+            "shortname": [
+                "sturobson/BEM-resources",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Flexbox",
+            "url": "https://github.com/afonsopacifer/awesome-flexbox",
+            "title": null,
+            "shortname": [
+                "afonsopacifer/awesome-flexbox",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Web Typography",
+            "url": "https://github.com/deanhume/typography",
+            "title": null,
+            "shortname": [
+                "deanhume/typography",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Web Accessibility",
+            "url": "https://github.com/brunopulis/awesome-a11y",
+            "title": null,
+            "shortname": [
+                "brunopulis/awesome-a11y",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Material Design",
+            "url": "https://github.com/sachin1092/awesome-material",
+            "title": null,
+            "shortname": [
+                "sachin1092/awesome-material",
+                "README.md"
+            ]
+        },
+        {
+            "text": "D3",
+            "url": "https://github.com/wbkd/awesome-d3",
+            "title": null,
+            "shortname": [
+                "wbkd/awesome-d3",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Emails",
+            "url": "https://github.com/jonathandion/awesome-emails",
+            "title": null,
+            "shortname": [
+                "jonathandion/awesome-emails",
+                "README.md"
+            ]
+        },
+        {
+            "text": "jQuery",
+            "url": "https://github.com/petk/awesome-jquery",
+            "title": null,
+            "shortname": [
+                "petk/awesome-jquery",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Tips",
+            "url": "https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know",
+            "title": null,
+            "shortname": [
+                "AllThingsSmitty/jquery-tips-everyone-should-know",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Web Audio",
+            "url": "https://github.com/notthetup/awesome-webaudio",
+            "title": null,
+            "shortname": [
+                "notthetup/awesome-webaudio",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Offline-First",
+            "url": "https://github.com/pazguille/offline-first",
+            "title": null,
+            "shortname": [
+                "pazguille/offline-first",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Static Website Services",
+            "url": "https://github.com/agarrharr/awesome-static-website-services",
+            "title": null,
+            "shortname": [
+                "agarrharr/awesome-static-website-services",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "A-Frame VR",
+            "url": "https://github.com/aframevr/awesome-aframe",
+            "title": null,
+            "shortname": [
+                "aframevr/awesome-aframe",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Cycle.js",
+            "url": "https://github.com/cyclejs-community/awesome-cyclejs",
+            "title": null,
+            "shortname": [
+                "cyclejs-community/awesome-cyclejs",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Text Editing",
+            "url": "https://github.com/dok/awesome-text-editing",
+            "title": null,
+            "shortname": [
+                "dok/awesome-text-editing",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Motion UI Design",
+            "url": "https://github.com/fliptheweb/motion-ui-design",
+            "title": null,
+            "shortname": [
+                "fliptheweb/motion-ui-design",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Vue.js",
+            "url": "https://github.com/vuejs/awesome-vue",
+            "title": null,
+            "shortname": [
+                "vuejs/awesome-vue",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Marionette.js",
+            "url": "https://github.com/sadcitizen/awesome-marionette",
+            "title": null,
+            "shortname": [
+                "sadcitizen/awesome-marionette",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Aurelia",
+            "url": "https://github.com/behzad888/awesome-aurelia",
+            "title": null,
+            "shortname": [
+                "behzad888/awesome-aurelia",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Charting",
+            "url": "https://github.com/zingchart/awesome-charting",
+            "title": null,
+            "shortname": [
+                "zingchart/awesome-charting",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Ionic Framework 2",
+            "url": "https://github.com/candelibas/awesome-ionic",
+            "title": null,
+            "shortname": [
+                "candelibas/awesome-ionic",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Chrome DevTools",
+            "url": "https://github.com/ChromeDevTools/awesome-chrome-devtools",
+            "title": null,
+            "shortname": [
+                "ChromeDevTools/awesome-chrome-devtools",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "PostCSS",
+            "url": "https://github.com/jdrgomes/awesome-postcss",
+            "title": null,
+            "shortname": [
+                "jdrgomes/awesome-postcss",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Draft.js",
+            "url": "https://github.com/nikgraf/awesome-draft-js",
+            "title": null,
+            "shortname": [
+                "nikgraf/awesome-draft-js",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Service Workers",
+            "url": "https://github.com/TalAter/awesome-service-workers",
+            "title": null,
+            "shortname": [
+                "TalAter/awesome-service-workers",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Progressive Web Apps",
+            "url": "https://github.com/TalAter/awesome-progressive-web-apps",
+            "title": null,
+            "shortname": [
+                "TalAter/awesome-progressive-web-apps",
+                "README.md"
+            ]
+        },
+        {
+            "text": "choo",
+            "url": "https://github.com/choojs/awesome-choo",
+            "title": null,
+            "shortname": [
+                "choojs/awesome-choo",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Redux",
+            "url": "https://github.com/brillout/awesome-redux",
+            "title": null,
+            "shortname": [
+                "brillout/awesome-redux",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "webpack",
+            "url": "https://github.com/webpack-contrib/awesome-webpack",
+            "title": null,
+            "shortname": [
+                "webpack-contrib/awesome-webpack",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Browserify",
+            "url": "https://github.com/browserify/awesome-browserify",
+            "title": null,
+            "shortname": [
+                "browserify/awesome-browserify",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Sass",
+            "url": "https://github.com/Famolus/awesome-sass",
+            "title": null,
+            "shortname": [
+                "Famolus/awesome-sass",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Ant Design",
+            "url": "https://github.com/websemantics/awesome-ant-design",
+            "title": null,
+            "shortname": [
+                "websemantics/awesome-ant-design",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Less",
+            "url": "https://github.com/LucasBassetti/awesome-less",
+            "title": null,
+            "shortname": [
+                "LucasBassetti/awesome-less",
+                "README.md"
+            ]
+        },
+        {
+            "text": "WebGL",
+            "url": "https://github.com/sjfricke/awesome-webgl",
+            "title": null,
+            "shortname": [
+                "sjfricke/awesome-webgl",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Preact",
+            "url": "https://github.com/ooade/awesome-preact",
+            "title": null,
+            "shortname": [
+                "ooade/awesome-preact",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Progressive Enhancement",
+            "url": "https://github.com/jbmoelker/progressive-enhancement-resources",
+            "title": null,
+            "shortname": [
+                "jbmoelker/progressive-enhancement-resources",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Next.js",
+            "url": "https://github.com/unicodeveloper/awesome-nextjs",
+            "title": null,
+            "shortname": [
+                "unicodeveloper/awesome-nextjs",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Hyperapp",
+            "url": "https://github.com/hyperapp/awesome-hyperapp",
+            "title": null,
+            "shortname": [
+                "hyperapp/awesome-hyperapp",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Django",
+            "url": "https://github.com/rosarior/awesome-django",
+            "title": null,
+            "shortname": [
+                "rosarior/awesome-django",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Flask",
+            "url": "https://github.com/humiaozuzu/awesome-flask",
+            "title": null,
+            "shortname": [
+                "humiaozuzu/awesome-flask",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Docker",
+            "url": "https://github.com/veggiemonk/awesome-docker",
+            "title": null,
+            "shortname": [
+                "veggiemonk/awesome-docker",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Vagrant",
+            "url": "https://github.com/iJackUA/awesome-vagrant",
+            "title": null,
+            "shortname": [
+                "iJackUA/awesome-vagrant",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Pyramid",
+            "url": "https://github.com/uralbash/awesome-pyramid",
+            "title": null,
+            "shortname": [
+                "uralbash/awesome-pyramid",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Play1 Framework",
+            "url": "https://github.com/PerfectCarl/awesome-play1",
+            "title": null,
+            "shortname": [
+                "PerfectCarl/awesome-play1",
+                "README.md"
+            ]
+        },
+        {
+            "text": "CakePHP",
+            "url": "https://github.com/friendsofcake/awesome-cakephp",
+            "title": null,
+            "shortname": [
+                "friendsofcake/awesome-cakephp",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Symfony",
+            "url": "https://github.com/sitepoint-editors/awesome-symfony",
+            "title": null,
+            "shortname": [
+                "sitepoint-editors/awesome-symfony",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Education",
+            "url": "https://github.com/pehapkari/awesome-symfony-education",
+            "title": null,
+            "shortname": [
+                "pehapkari/awesome-symfony-education",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Laravel",
+            "url": "https://github.com/chiraggude/awesome-laravel",
+            "title": null,
+            "shortname": [
+                "chiraggude/awesome-laravel",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Education",
+            "url": "https://github.com/fukuball/Awesome-Laravel-Education",
+            "title": null,
+            "shortname": [
+                "fukuball/Awesome-Laravel-Education",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Rails",
+            "url": "https://github.com/ekremkaraca/awesome-rails",
+            "title": null,
+            "shortname": [
+                "ekremkaraca/awesome-rails",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Gems",
+            "url": "https://github.com/hothero/awesome-rails-gem",
+            "title": null,
+            "shortname": [
+                "hothero/awesome-rails-gem",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Phalcon",
+            "url": "https://github.com/phalcon/awesome-phalcon",
+            "title": null,
+            "shortname": [
+                "phalcon/awesome-phalcon",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Useful `.htaccess` Snippets",
+            "url": "https://github.com/phanan/htaccess",
+            "title": null,
+            "shortname": [
+                "phanan/htaccess",
+                "README.md"
+            ]
+        },
+        {
+            "text": "nginx",
+            "url": "https://github.com/fcambus/nginx-resources",
+            "title": null,
+            "shortname": [
+                "fcambus/nginx-resources",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Dropwizard",
+            "url": "https://github.com/stve/awesome-dropwizard",
+            "title": null,
+            "shortname": [
+                "stve/awesome-dropwizard",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Kubernetes",
+            "url": "https://github.com/ramitsurana/awesome-kubernetes",
+            "title": null,
+            "shortname": [
+                "ramitsurana/awesome-kubernetes",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Lumen",
+            "url": "https://github.com/unicodeveloper/awesome-lumen",
+            "title": null,
+            "shortname": [
+                "unicodeveloper/awesome-lumen",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Serverless Framework",
+            "url": "https://github.com/pmuens/awesome-serverless",
+            "title": null,
+            "shortname": [
+                "pmuens/awesome-serverless",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Apache Wicket",
+            "url": "https://github.com/PhantomYdn/awesome-wicket",
+            "title": null,
+            "shortname": [
+                "PhantomYdn/awesome-wicket",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Vert.x",
+            "url": "https://github.com/vert-x3/vertx-awesome",
+            "title": null,
+            "shortname": [
+                "vert-x3/vertx-awesome",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Terraform",
+            "url": "https://github.com/shuaibiyy/awesome-terraform",
+            "title": null,
+            "shortname": [
+                "shuaibiyy/awesome-terraform",
+                "README.md"
+            ]
+        },
+        {
+            "text": "University Courses",
+            "url": "https://github.com/prakhar1989/awesome-courses",
+            "title": null,
+            "shortname": [
+                "prakhar1989/awesome-courses",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Data Science",
+            "url": "https://github.com/bulutyazilim/awesome-datascience",
+            "title": null,
+            "shortname": [
+                "bulutyazilim/awesome-datascience",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Tutorials",
+            "url": "https://github.com/siboehm/awesome-learn-datascience",
+            "title": null,
+            "shortname": [
+                "siboehm/awesome-learn-datascience",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Machine Learning",
+            "url": "https://github.com/josephmisiti/awesome-machine-learning",
+            "title": null,
+            "shortname": [
+                "josephmisiti/awesome-machine-learning",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Tutorials",
+            "url": "https://github.com/ujjwalkarn/Machine-Learning-Tutorials",
+            "title": null,
+            "shortname": [
+                "ujjwalkarn/Machine-Learning-Tutorials",
+                "README.md"
+            ]
+        },
+        {
+            "text": "ML with Ruby",
+            "url": "https://github.com/arbox/machine-learning-with-ruby",
+            "title": null,
+            "shortname": [
+                "arbox/machine-learning-with-ruby",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Core ML Models",
+            "url": "https://github.com/likedan/Awesome-CoreML-Models",
+            "title": null,
+            "shortname": [
+                "likedan/Awesome-CoreML-Models",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Speech and Natural Language Processing",
+            "url": "https://github.com/edobashira/speech-language-processing",
+            "title": null,
+            "shortname": [
+                "edobashira/speech-language-processing",
+                "README.rst"
+            ]
+        },
+        {
+            "text": "Spanish",
+            "url": "https://github.com/dav009/awesome-spanish-nlp",
+            "title": null,
+            "shortname": [
+                "dav009/awesome-spanish-nlp",
+                "README.md"
+            ]
+        },
+        {
+            "text": "NLP with Ruby",
+            "url": "https://github.com/arbox/nlp-with-ruby",
+            "title": null,
+            "shortname": [
+                "arbox/nlp-with-ruby",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Linguistics",
+            "url": "https://github.com/theimpossibleastronaut/awesome-linguistics",
+            "title": null,
+            "shortname": [
+                "theimpossibleastronaut/awesome-linguistics",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Cryptography",
+            "url": "https://github.com/sobolevn/awesome-cryptography",
+            "title": null,
+            "shortname": [
+                "sobolevn/awesome-cryptography",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Computer Vision",
+            "url": "https://github.com/jbhuang0604/awesome-computer-vision",
+            "title": null,
+            "shortname": [
+                "jbhuang0604/awesome-computer-vision",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Deep Learning",
+            "url": "https://github.com/ChristosChristofidis/awesome-deep-learning",
+            "title": null,
+            "shortname": [
+                "ChristosChristofidis/awesome-deep-learning",
+                "README.md"
+            ]
+        },
+        {
+            "text": "TensorFlow",
+            "url": "https://github.com/jtoy/awesome-tensorflow",
+            "title": null,
+            "shortname": [
+                "jtoy/awesome-tensorflow",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Papers",
+            "url": "https://github.com/terryum/awesome-deep-learning-papers",
+            "title": null,
+            "shortname": [
+                "terryum/awesome-deep-learning-papers",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Education",
+            "url": "https://github.com/guillaume-chevalier/awesome-deep-learning-resources",
+            "title": null,
+            "shortname": [
+                "guillaume-chevalier/awesome-deep-learning-resources",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Deep Vision",
+            "url": "https://github.com/kjw0612/awesome-deep-vision",
+            "title": null,
+            "shortname": [
+                "kjw0612/awesome-deep-vision",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Open Source Society University",
+            "url": "https://github.com/ossu/computer-science",
+            "title": null,
+            "shortname": [
+                "ossu/computer-science",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Functional Programming",
+            "url": "https://github.com/lucasviola/awesome-functional-programming",
+            "title": null,
+            "shortname": [
+                "lucasviola/awesome-functional-programming",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Static Analysis & Code Quality",
+            "url": "https://github.com/mre/awesome-static-analysis",
+            "title": null,
+            "shortname": [
+                "mre/awesome-static-analysis",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Information Retrieval",
+            "url": "https://github.com/harpribot/awesome-information-retrieval",
+            "title": null,
+            "shortname": [
+                "harpribot/awesome-information-retrieval",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Big Data",
+            "url": "https://github.com/onurakpolat/awesome-bigdata",
+            "title": null,
+            "shortname": [
+                "onurakpolat/awesome-bigdata",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Public Datasets",
+            "url": "https://github.com/awesomedata/awesome-public-datasets",
+            "title": null,
+            "shortname": [
+                "awesomedata/awesome-public-datasets",
+                "README.rst"
+            ]
+        },
+        {
+            "text": "Hadoop",
+            "url": "https://github.com/youngwookim/awesome-hadoop",
+            "title": null,
+            "shortname": [
+                "youngwookim/awesome-hadoop",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Data Engineering",
+            "url": "https://github.com/igorbarinov/awesome-data-engineering",
+            "title": null,
+            "shortname": [
+                "igorbarinov/awesome-data-engineering",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Streaming",
+            "url": "https://github.com/manuzhang/awesome-streaming",
+            "title": null,
+            "shortname": [
+                "manuzhang/awesome-streaming",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Apache Spark",
+            "url": "https://github.com/awesome-spark/awesome-spark",
+            "title": null,
+            "shortname": [
+                "awesome-spark/awesome-spark",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Papers We Love",
+            "url": "https://github.com/papers-we-love/papers-we-love",
+            "title": null,
+            "shortname": [
+                "papers-we-love/papers-we-love",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Talks",
+            "url": "https://github.com/JanVanRyswyck/awesome-talks",
+            "title": null,
+            "shortname": [
+                "JanVanRyswyck/awesome-talks",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Algorithms",
+            "url": "https://github.com/tayllan/awesome-algorithms",
+            "title": null,
+            "shortname": [
+                "tayllan/awesome-algorithms",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Algorithm Visualizations",
+            "url": "https://github.com/enjalot/algovis",
+            "title": null,
+            "shortname": [
+                "enjalot/algovis",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Artificial Intelligence",
+            "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+            "title": null,
+            "shortname": [
+                "owainlewis/awesome-artificial-intelligence",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Search Engine Optimization",
+            "url": "https://github.com/marcobiedermann/search-engine-optimization",
+            "title": null,
+            "shortname": [
+                "marcobiedermann/search-engine-optimization",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Competitive Programming",
+            "url": "https://github.com/lnishan/awesome-competitive-programming",
+            "title": null,
+            "shortname": [
+                "lnishan/awesome-competitive-programming",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Math",
+            "url": "https://github.com/rossant/awesome-math",
+            "title": null,
+            "shortname": [
+                "rossant/awesome-math",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Recursion Schemes",
+            "url": "https://github.com/passy/awesome-recursion-schemes",
+            "title": null,
+            "shortname": [
+                "passy/awesome-recursion-schemes",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Free Programming Books",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "title": null,
+            "shortname": [
+                "EbookFoundation/free-programming-books",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Free Software Testing Books",
+            "url": "https://github.com/ligurio/awesome-software-quality",
+            "title": null,
+            "shortname": [
+                "ligurio/awesome-software-quality",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Go Books",
+            "url": "https://github.com/dariubs/GoBooks",
+            "title": null,
+            "shortname": [
+                "dariubs/GoBooks",
+                "README.md"
+            ]
+        },
+        {
+            "text": "R Books",
+            "url": "https://github.com/RomanTsegelskyi/rbooks",
+            "title": null,
+            "shortname": [
+                "RomanTsegelskyi/rbooks",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Mind Expanding Books",
+            "url": "https://github.com/hackerkid/Mind-Expanding-Books",
+            "title": null,
+            "shortname": [
+                "hackerkid/Mind-Expanding-Books",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Book Authoring",
+            "url": "https://github.com/TalAter/awesome-book-authoring",
+            "title": null,
+            "shortname": [
+                "TalAter/awesome-book-authoring",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Elixir Books",
+            "url": "https://github.com/sger/ElixirBooks",
+            "title": null,
+            "shortname": [
+                "sger/ElixirBooks",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Sublime Text",
+            "url": "https://github.com/dreikanter/sublime-bookmarks",
+            "title": null,
+            "shortname": [
+                "dreikanter/sublime-bookmarks",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Vim",
+            "url": "https://github.com/mhinz/vim-galore",
+            "title": null,
+            "shortname": [
+                "mhinz/vim-galore",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Emacs",
+            "url": "https://github.com/emacs-tw/awesome-emacs",
+            "title": null,
+            "shortname": [
+                "emacs-tw/awesome-emacs",
+                "README.org"
+            ]
+        },
+        {
+            "text": "Atom",
+            "url": "https://github.com/mehcode/awesome-atom",
+            "title": null,
+            "shortname": [
+                "mehcode/awesome-atom",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Visual Studio Code",
+            "url": "https://github.com/viatsko/awesome-vscode",
+            "title": null,
+            "shortname": [
+                "viatsko/awesome-vscode",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Game Development",
+            "url": "https://github.com/ellisonleao/magictools",
+            "title": null,
+            "shortname": [
+                "ellisonleao/magictools",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Game Talks",
+            "url": "https://github.com/hzoo/awesome-gametalks",
+            "title": null,
+            "shortname": [
+                "hzoo/awesome-gametalks",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Godot",
+            "url": "https://github.com/Calinou/awesome-godot",
+            "title": null,
+            "shortname": [
+                "Calinou/awesome-godot",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Open Source Games",
+            "url": "https://github.com/leereilly/games",
+            "title": null,
+            "shortname": [
+                "leereilly/games",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Unity",
+            "url": "https://github.com/RyanNielson/awesome-unity",
+            "title": null,
+            "shortname": [
+                "RyanNielson/awesome-unity",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Chess",
+            "url": "https://github.com/hkirat/awesome-chess",
+            "title": null,
+            "shortname": [
+                "hkirat/awesome-chess",
+                "README.md"
+            ]
+        },
+        {
+            "text": "LÖVE",
+            "url": "https://github.com/love2d-community/awesome-love2d",
+            "title": null,
+            "shortname": [
+                "love2d-community/awesome-love2d",
+                "README.md"
+            ]
+        },
+        {
+            "text": "PICO-8",
+            "url": "https://github.com/felipebueno/awesome-PICO-8",
+            "title": null,
+            "shortname": [
+                "felipebueno/awesome-PICO-8",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Game Boy Development",
+            "url": "https://github.com/avivace/awesome-gbdev",
+            "title": null,
+            "shortname": [
+                "avivace/awesome-gbdev",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Construct 2",
+            "url": "https://github.com/armaldio/awesome-construct",
+            "title": null,
+            "shortname": [
+                "armaldio/awesome-construct",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Gideros",
+            "url": "https://github.com/stetso/awesome-gideros",
+            "title": null,
+            "shortname": [
+                "stetso/awesome-gideros",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Quick Look Plugins",
+            "url": "https://github.com/sindresorhus/quick-look-plugins",
+            "title": null,
+            "shortname": [
+                "sindresorhus/quick-look-plugins",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Dev Env",
+            "url": "https://github.com/jondot/awesome-devenv",
+            "title": null,
+            "shortname": [
+                "jondot/awesome-devenv",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Dotfiles",
+            "url": "https://github.com/webpro/awesome-dotfiles",
+            "title": null,
+            "shortname": [
+                "webpro/awesome-dotfiles",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Shell",
+            "url": "https://github.com/alebcay/awesome-shell",
+            "title": null,
+            "shortname": [
+                "alebcay/awesome-shell",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Fish",
+            "url": "https://github.com/fisherman/awesome-fish-shell",
+            "title": null,
+            "shortname": [
+                "fisherman/awesome-fish-shell",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Command-Line Apps",
+            "url": "https://github.com/agarrharr/awesome-cli-apps",
+            "title": null,
+            "shortname": [
+                "agarrharr/awesome-cli-apps",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "ZSH Plugins",
+            "url": "https://github.com/unixorn/awesome-zsh-plugins",
+            "title": null,
+            "shortname": [
+                "unixorn/awesome-zsh-plugins",
+                "README.md"
+            ]
+        },
+        {
+            "text": "GitHub",
+            "url": "https://github.com/phillipadsmith/awesome-github",
+            "title": null,
+            "shortname": [
+                "phillipadsmith/awesome-github",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Browser Extensions",
+            "url": "https://github.com/stefanbuck/awesome-browser-extensions-for-github",
+            "title": null,
+            "shortname": [
+                "stefanbuck/awesome-browser-extensions-for-github",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Cheat Sheet",
+            "url": "https://github.com/tiimgreen/github-cheat-sheet",
+            "title": null,
+            "shortname": [
+                "tiimgreen/github-cheat-sheet",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Git Cheat Sheet & Git Flow",
+            "url": "https://github.com/arslanbilal/git-cheat-sheet",
+            "title": null,
+            "shortname": [
+                "arslanbilal/git-cheat-sheet",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Git Tips",
+            "url": "https://github.com/git-tips/tips",
+            "title": null,
+            "shortname": [
+                "git-tips/tips",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Git Add-ons",
+            "url": "https://github.com/stevemao/awesome-git-addons",
+            "title": null,
+            "shortname": [
+                "stevemao/awesome-git-addons",
+                "README.md"
+            ]
+        },
+        {
+            "text": "SSH",
+            "url": "https://github.com/moul/awesome-ssh",
+            "title": null,
+            "shortname": [
+                "moul/awesome-ssh",
+                "README.md"
+            ]
+        },
+        {
+            "text": "FOSS for Developers",
+            "url": "https://github.com/tvvocold/FOSS-for-Dev",
+            "title": null,
+            "shortname": [
+                "tvvocold/FOSS-for-Dev",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Hyper",
+            "url": "https://github.com/bnb/awesome-hyper",
+            "title": null,
+            "shortname": [
+                "bnb/awesome-hyper",
+                "README.md"
+            ]
+        },
+        {
+            "text": "PowerShell",
+            "url": "https://github.com/janikvonrotz/awesome-powershell",
+            "title": null,
+            "shortname": [
+                "janikvonrotz/awesome-powershell",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Alfred Workflows",
+            "url": "https://github.com/derimagia/awesome-alfred-workflows",
+            "title": null,
+            "shortname": [
+                "derimagia/awesome-alfred-workflows",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Terminals Are Sexy",
+            "url": "https://github.com/k4m4/terminals-are-sexy",
+            "title": null,
+            "shortname": [
+                "k4m4/terminals-are-sexy",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Science Fiction",
+            "url": "https://github.com/sindresorhus/awesome-scifi",
+            "title": null,
+            "shortname": [
+                "sindresorhus/awesome-scifi",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Fantasy",
+            "url": "https://github.com/RichardLitt/awesome-fantasy",
+            "title": null,
+            "shortname": [
+                "RichardLitt/awesome-fantasy",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Podcasts",
+            "url": "https://github.com/guipdutra/awesome-geek-podcasts",
+            "title": null,
+            "shortname": [
+                "guipdutra/awesome-geek-podcasts",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Email Newsletters",
+            "url": "https://github.com/vredniy/awesome-newsletters",
+            "title": null,
+            "shortname": [
+                "vredniy/awesome-newsletters",
+                "README.md"
+            ]
+        },
+        {
+            "text": "IT Quotes",
+            "url": "https://github.com/victorlaerte/awesome-it-quotes",
+            "title": null,
+            "shortname": [
+                "victorlaerte/awesome-it-quotes",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Database",
+            "url": "https://github.com/numetriclabz/awesome-db",
+            "title": null,
+            "shortname": [
+                "numetriclabz/awesome-db",
+                "README.md"
+            ]
+        },
+        {
+            "text": "MySQL",
+            "url": "https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md",
+            "title": null,
+            "shortname": [
+                "shlomi-noach/awesome-mysql",
+                "index.md"
+            ]
+        },
+        {
+            "text": "SQLAlchemy",
+            "url": "https://github.com/dahlia/awesome-sqlalchemy",
+            "title": null,
+            "shortname": [
+                "dahlia/awesome-sqlalchemy",
+                "README.rst"
+            ]
+        },
+        {
+            "text": "InfluxDB",
+            "url": "https://github.com/mark-rushakoff/awesome-influxdb",
+            "title": null,
+            "shortname": [
+                "mark-rushakoff/awesome-influxdb",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Neo4j",
+            "url": "https://github.com/neueda/awesome-neo4j",
+            "title": null,
+            "shortname": [
+                "neueda/awesome-neo4j",
+                "README.md"
+            ]
+        },
+        {
+            "text": "MongoDB",
+            "url": "https://github.com/ramnes/awesome-mongodb",
+            "title": null,
+            "shortname": [
+                "ramnes/awesome-mongodb",
+                "README.md"
+            ]
+        },
+        {
+            "text": "RethinkDB",
+            "url": "https://github.com/d3viant0ne/awesome-rethinkdb",
+            "title": null,
+            "shortname": [
+                "d3viant0ne/awesome-rethinkdb",
+                "README.md"
+            ]
+        },
+        {
+            "text": "TinkerPop",
+            "url": "https://github.com/mohataher/awesome-tinkerpop",
+            "title": null,
+            "shortname": [
+                "mohataher/awesome-tinkerpop",
+                "README.md"
+            ]
+        },
+        {
+            "text": "PostgreSQL",
+            "url": "https://github.com/dhamaniasad/awesome-postgres",
+            "title": null,
+            "shortname": [
+                "dhamaniasad/awesome-postgres",
+                "README.md"
+            ]
+        },
+        {
+            "text": "CouchDB",
+            "url": "https://github.com/quangv/awesome-couchdb",
+            "title": null,
+            "shortname": [
+                "quangv/awesome-couchdb",
+                "README.md"
+            ]
+        },
+        {
+            "text": "HBase",
+            "url": "https://github.com/rayokota/awesome-hbase",
+            "title": null,
+            "shortname": [
+                "rayokota/awesome-hbase",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Creative Commons Media",
+            "url": "https://github.com/shime/creative-commons-media",
+            "title": null,
+            "shortname": [
+                "shime/creative-commons-media",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Fonts",
+            "url": "https://github.com/brabadu/awesome-fonts",
+            "title": null,
+            "shortname": [
+                "brabadu/awesome-fonts",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Codeface",
+            "url": "https://github.com/chrissimpkins/codeface",
+            "title": null,
+            "shortname": [
+                "chrissimpkins/codeface",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Stock Resources",
+            "url": "https://github.com/neutraltone/awesome-stock-resources",
+            "title": null,
+            "shortname": [
+                "neutraltone/awesome-stock-resources",
+                "README.md"
+            ]
+        },
+        {
+            "text": "GIF",
+            "url": "https://github.com/davisonio/awesome-gif",
+            "title": null,
+            "shortname": [
+                "davisonio/awesome-gif",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Music",
+            "url": "https://github.com/ciconia/awesome-music",
+            "title": null,
+            "shortname": [
+                "ciconia/awesome-music",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Open Source Documents",
+            "url": "https://github.com/hubtee/awesome-opensource-documents",
+            "title": null,
+            "shortname": [
+                "hubtee/awesome-opensource-documents",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Audio Visualization",
+            "url": "https://github.com/willianjusten/awesome-audio-visualization",
+            "title": null,
+            "shortname": [
+                "willianjusten/awesome-audio-visualization",
+                "Readme.md"
+            ]
+        },
+        {
+            "text": "Broadcasting",
+            "url": "https://github.com/ebu/awesome-broadcasting",
+            "title": null,
+            "shortname": [
+                "ebu/awesome-broadcasting",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Pixel Art",
+            "url": "https://github.com/Siilwyn/awesome-pixel-art",
+            "title": null,
+            "shortname": [
+                "Siilwyn/awesome-pixel-art",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "CLI Workshoppers",
+            "url": "https://github.com/therebelrobot/awesome-workshopper",
+            "title": null,
+            "shortname": [
+                "therebelrobot/awesome-workshopper",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Learn to Program",
+            "url": "https://github.com/karlhorky/learn-to-program",
+            "title": null,
+            "shortname": [
+                "karlhorky/learn-to-program",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Speaking",
+            "url": "https://github.com/matteofigus/awesome-speaking",
+            "title": null,
+            "shortname": [
+                "matteofigus/awesome-speaking",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Tech Videos",
+            "url": "https://github.com/lucasviola/awesome-tech-videos",
+            "title": null,
+            "shortname": [
+                "lucasviola/awesome-tech-videos",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Dive into Machine Learning",
+            "url": "https://github.com/hangtwenty/dive-into-machine-learning",
+            "title": null,
+            "shortname": [
+                "hangtwenty/dive-into-machine-learning",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Computer History",
+            "url": "https://github.com/watson/awesome-computer-history",
+            "title": null,
+            "shortname": [
+                "watson/awesome-computer-history",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Programming for Kids",
+            "url": "https://github.com/HollyAdele/awesome-programming-for-kids",
+            "title": null,
+            "shortname": [
+                "HollyAdele/awesome-programming-for-kids",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Educational Games",
+            "url": "https://github.com/yrgo/awesome-eg",
+            "title": null,
+            "shortname": [
+                "yrgo/awesome-eg",
+                "README.md"
+            ]
+        },
+        {
+            "text": "JavaScript Learning",
+            "url": "https://github.com/micromata/awesome-javascript-learning",
+            "title": null,
+            "shortname": [
+                "micromata/awesome-javascript-learning",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Application Security",
+            "url": "https://github.com/paragonie/awesome-appsec",
+            "title": null,
+            "shortname": [
+                "paragonie/awesome-appsec",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Security",
+            "url": "https://github.com/sbilly/awesome-security",
+            "title": null,
+            "shortname": [
+                "sbilly/awesome-security",
+                "README.md"
+            ]
+        },
+        {
+            "text": "CTF",
+            "url": "https://github.com/apsdehal/awesome-ctf",
+            "title": null,
+            "shortname": [
+                "apsdehal/awesome-ctf",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Malware Analysis",
+            "url": "https://github.com/rshipp/awesome-malware-analysis",
+            "title": null,
+            "shortname": [
+                "rshipp/awesome-malware-analysis",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Android Security",
+            "url": "https://github.com/ashishb/android-security-awesome",
+            "title": null,
+            "shortname": [
+                "ashishb/android-security-awesome",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Hacking",
+            "url": "https://github.com/carpedm20/awesome-hacking",
+            "title": null,
+            "shortname": [
+                "carpedm20/awesome-hacking",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Honeypots",
+            "url": "https://github.com/paralax/awesome-honeypots",
+            "title": null,
+            "shortname": [
+                "paralax/awesome-honeypots",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Incident Response",
+            "url": "https://github.com/meirwah/awesome-incident-response",
+            "title": null,
+            "shortname": [
+                "meirwah/awesome-incident-response",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Vehicle Security and Car Hacking",
+            "url": "https://github.com/jaredthecoder/awesome-vehicle-security",
+            "title": null,
+            "shortname": [
+                "jaredthecoder/awesome-vehicle-security",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Web Security",
+            "url": "https://github.com/qazbnm456/awesome-web-security",
+            "title": null,
+            "shortname": [
+                "qazbnm456/awesome-web-security",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Lockpicking",
+            "url": "https://github.com/meitar/awesome-lockpicking",
+            "title": null,
+            "shortname": [
+                "meitar/awesome-lockpicking",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Umbraco",
+            "url": "https://github.com/leekelleher/awesome-umbraco",
+            "title": null,
+            "shortname": [
+                "leekelleher/awesome-umbraco",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Refinery CMS",
+            "url": "https://github.com/refinerycms-contrib/awesome-refinerycms",
+            "title": null,
+            "shortname": [
+                "refinerycms-contrib/awesome-refinerycms",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Wagtail",
+            "url": "https://github.com/springload/awesome-wagtail",
+            "title": null,
+            "shortname": [
+                "springload/awesome-wagtail",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Textpattern",
+            "url": "https://github.com/drmonkeyninja/awesome-textpattern",
+            "title": null,
+            "shortname": [
+                "drmonkeyninja/awesome-textpattern",
+                "README.textile"
+            ]
+        },
+        {
+            "text": "Drupal",
+            "url": "https://github.com/nirgn975/awesome-drupal",
+            "title": null,
+            "shortname": [
+                "nirgn975/awesome-drupal",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Craft CMS",
+            "url": "https://github.com/craftcms/awesome",
+            "title": null,
+            "shortname": [
+                "craftcms/awesome",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Robotics",
+            "url": "https://github.com/Kiloreux/awesome-robotics",
+            "title": null,
+            "shortname": [
+                "Kiloreux/awesome-robotics",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Internet of Things",
+            "url": "https://github.com/HQarroum/awesome-iot",
+            "title": null,
+            "shortname": [
+                "HQarroum/awesome-iot",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Electronics",
+            "url": "https://github.com/monostable/awesome-electronics",
+            "title": null,
+            "shortname": [
+                "monostable/awesome-electronics",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Bluetooth Beacons",
+            "url": "https://github.com/beaconinside/awesome-beacon",
+            "title": null,
+            "shortname": [
+                "beaconinside/awesome-beacon",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Electric Guitar Specifications",
+            "url": "https://github.com/gitfrage/guitarspecs",
+            "title": null,
+            "shortname": [
+                "gitfrage/guitarspecs",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Open Companies",
+            "url": "https://github.com/opencompany/awesome-open-company",
+            "title": null,
+            "shortname": [
+                "opencompany/awesome-open-company",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Places to Post Your Startup",
+            "url": "https://github.com/mmccaff/PlacesToPostYourStartup",
+            "title": null,
+            "shortname": [
+                "mmccaff/PlacesToPostYourStartup",
+                "README.md"
+            ]
+        },
+        {
+            "text": "OKR Methodology",
+            "url": "https://github.com/domenicosolazzo/awesome-okr",
+            "title": null,
+            "shortname": [
+                "domenicosolazzo/awesome-okr",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Leading and Managing",
+            "url": "https://github.com/LappleApple/awesome-leading-and-managing",
+            "title": null,
+            "shortname": [
+                "LappleApple/awesome-leading-and-managing",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Indie",
+            "url": "https://github.com/mezod/awesome-indie",
+            "title": null,
+            "shortname": [
+                "mezod/awesome-indie",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Slack",
+            "url": "https://github.com/matiassingers/awesome-slack",
+            "title": null,
+            "shortname": [
+                "matiassingers/awesome-slack",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Communities",
+            "url": "https://github.com/filipelinhares/awesome-slack",
+            "title": null,
+            "shortname": [
+                "filipelinhares/awesome-slack",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Remote Jobs",
+            "url": "https://github.com/lukasz-madon/awesome-remote-job",
+            "title": null,
+            "shortname": [
+                "lukasz-madon/awesome-remote-job",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Productivity",
+            "url": "https://github.com/jyguyomarch/awesome-productivity",
+            "title": null,
+            "shortname": [
+                "jyguyomarch/awesome-productivity",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Niche Job Boards",
+            "url": "https://github.com/tramcar/awesome-job-boards",
+            "title": null,
+            "shortname": [
+                "tramcar/awesome-job-boards",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Programming Interviews",
+            "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+            "title": null,
+            "shortname": [
+                "MaximAbramchuck/awesome-interview-questions",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Software-Defined Networking",
+            "url": "https://github.com/sdnds-tw/awesome-sdn",
+            "title": null,
+            "shortname": [
+                "sdnds-tw/awesome-sdn",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Network Analysis",
+            "url": "https://github.com/briatte/awesome-network-analysis",
+            "title": null,
+            "shortname": [
+                "briatte/awesome-network-analysis",
+                "README.md"
+            ]
+        },
+        {
+            "text": "PCAPTools",
+            "url": "https://github.com/caesar0301/awesome-pcaptools",
+            "title": null,
+            "shortname": [
+                "caesar0301/awesome-pcaptools",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Bitcoin",
+            "url": "https://github.com/igorbarinov/awesome-bitcoin",
+            "title": null,
+            "shortname": [
+                "igorbarinov/awesome-bitcoin",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Ripple",
+            "url": "https://github.com/vhpoet/awesome-ripple",
+            "title": null,
+            "shortname": [
+                "vhpoet/awesome-ripple",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Non-Financial Blockchain",
+            "url": "https://github.com/machinomy/awesome-non-financial-blockchain",
+            "title": null,
+            "shortname": [
+                "machinomy/awesome-non-financial-blockchain",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Mastodon",
+            "url": "https://github.com/tleb/awesome-mastodon",
+            "title": null,
+            "shortname": [
+                "tleb/awesome-mastodon",
+                "README.md"
+            ]
+        },
+        {
+            "text": "JSON",
+            "url": "https://github.com/burningtree/awesome-json",
+            "title": null,
+            "shortname": [
+                "burningtree/awesome-json",
+                "README.md"
+            ]
+        },
+        {
+            "text": "GeoJSON",
+            "url": "https://github.com/tmcw/awesome-geojson",
+            "title": null,
+            "shortname": [
+                "tmcw/awesome-geojson",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Datasets",
+            "url": "https://github.com/jdorfman/awesome-json-datasets",
+            "title": null,
+            "shortname": [
+                "jdorfman/awesome-json-datasets",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Discounts for Student Developers",
+            "url": "https://github.com/AchoArnold/discount-for-student-dev",
+            "title": null,
+            "shortname": [
+                "AchoArnold/discount-for-student-dev",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Conferences",
+            "url": "https://github.com/RichardLitt/awesome-conferences",
+            "title": null,
+            "shortname": [
+                "RichardLitt/awesome-conferences",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Sysadmin",
+            "url": "https://github.com/n1trux/awesome-sysadmin",
+            "title": null,
+            "shortname": [
+                "n1trux/awesome-sysadmin",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Radio",
+            "url": "https://github.com/kyleterry/awesome-radio",
+            "title": null,
+            "shortname": [
+                "kyleterry/awesome-radio",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Awesome",
+            "url": "https://github.com/sindresorhus/awesome",
+            "title": null,
+            "shortname": [
+                "sindresorhus/awesome",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Analytics",
+            "url": "https://github.com/onurakpolat/awesome-analytics",
+            "title": null,
+            "shortname": [
+                "onurakpolat/awesome-analytics",
+                "README.md"
+            ]
+        },
+        {
+            "text": "REST",
+            "url": "https://github.com/marmelab/awesome-rest",
+            "title": null,
+            "shortname": [
+                "marmelab/awesome-rest",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Selenium",
+            "url": "https://github.com/christian-bromann/awesome-selenium",
+            "title": null,
+            "shortname": [
+                "christian-bromann/awesome-selenium",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Appium",
+            "url": "https://github.com/SrinivasanTarget/awesome-appium",
+            "title": null,
+            "shortname": [
+                "SrinivasanTarget/awesome-appium",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Continuous Integration and Continuous Delivery",
+            "url": "https://github.com/ciandcd/awesome-ciandcd",
+            "title": null,
+            "shortname": [
+                "ciandcd/awesome-ciandcd",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Services Engineering",
+            "url": "https://github.com/mmcgrana/services-engineering",
+            "title": null,
+            "shortname": [
+                "mmcgrana/services-engineering",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Free for Developers",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "title": null,
+            "shortname": [
+                "ripienaar/free-for-dev",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Answers",
+            "url": "https://github.com/cyberglot/awesome-answers",
+            "title": null,
+            "shortname": [
+                "cyberglot/awesome-answers",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Sketch",
+            "url": "https://github.com/diessica/awesome-sketch",
+            "title": null,
+            "shortname": [
+                "diessica/awesome-sketch",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Boilerplate Projects",
+            "url": "https://github.com/melvin0008/awesome-projects-boilerplates",
+            "title": null,
+            "shortname": [
+                "melvin0008/awesome-projects-boilerplates",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Readme",
+            "url": "https://github.com/matiassingers/awesome-readme",
+            "title": null,
+            "shortname": [
+                "matiassingers/awesome-readme",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Tools",
+            "url": "https://github.com/cjbarber/ToolsOfTheTrade",
+            "title": null,
+            "shortname": [
+                "cjbarber/ToolsOfTheTrade",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Styleguides",
+            "url": "https://github.com/RichardLitt/awesome-styleguides",
+            "title": null,
+            "shortname": [
+                "RichardLitt/awesome-styleguides",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Design and Development Guides",
+            "url": "https://github.com/NARKOZ/guides",
+            "title": null,
+            "shortname": [
+                "NARKOZ/guides",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Software Engineering Blogs",
+            "url": "https://github.com/kilimchoi/engineering-blogs",
+            "title": null,
+            "shortname": [
+                "kilimchoi/engineering-blogs",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Self Hosted",
+            "url": "https://github.com/Kickball/awesome-selfhosted",
+            "title": null,
+            "shortname": [
+                "Kickball/awesome-selfhosted",
+                "README.md"
+            ]
+        },
+        {
+            "text": "FOSS Production Apps",
+            "url": "https://github.com/jwaterfaucett/awesome-foss-apps",
+            "title": null,
+            "shortname": [
+                "jwaterfaucett/awesome-foss-apps",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Gulp",
+            "url": "https://github.com/alferov/awesome-gulp",
+            "title": null,
+            "shortname": [
+                "alferov/awesome-gulp",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "AMA",
+            "url": "https://github.com/sindresorhus/amas",
+            "title": null,
+            "shortname": [
+                "sindresorhus/amas",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Answers",
+            "url": "https://github.com/stoeffel/awesome-ama-answers",
+            "title": null,
+            "shortname": [
+                "stoeffel/awesome-ama-answers",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Open Source Photography",
+            "url": "https://github.com/ibaaj/awesome-OpenSourcePhotography",
+            "title": null,
+            "shortname": [
+                "ibaaj/awesome-OpenSourcePhotography",
+                "README.md"
+            ]
+        },
+        {
+            "text": "OpenGL",
+            "url": "https://github.com/eug/awesome-opengl",
+            "title": null,
+            "shortname": [
+                "eug/awesome-opengl",
+                "README.md"
+            ]
+        },
+        {
+            "text": "GraphQL",
+            "url": "https://github.com/chentsulin/awesome-graphql",
+            "title": null,
+            "shortname": [
+                "chentsulin/awesome-graphql",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Transit",
+            "url": "https://github.com/CUTR-at-USF/awesome-transit",
+            "title": null,
+            "shortname": [
+                "CUTR-at-USF/awesome-transit",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Research Tools",
+            "url": "https://github.com/emptymalei/awesome-research",
+            "title": null,
+            "shortname": [
+                "emptymalei/awesome-research",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Data Visualization",
+            "url": "https://github.com/fasouto/awesome-dataviz",
+            "title": null,
+            "shortname": [
+                "fasouto/awesome-dataviz",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Social Media Share Links",
+            "url": "https://github.com/vinkla/shareable-links",
+            "title": null,
+            "shortname": [
+                "vinkla/shareable-links",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Microservices",
+            "url": "https://github.com/mfornos/awesome-microservices",
+            "title": null,
+            "shortname": [
+                "mfornos/awesome-microservices",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Unicode",
+            "url": "https://github.com/jagracey/Awesome-Unicode",
+            "title": null,
+            "shortname": [
+                "jagracey/Awesome-Unicode",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Code Points",
+            "url": "https://github.com/Codepoints/awesome-codepoints",
+            "title": null,
+            "shortname": [
+                "Codepoints/awesome-codepoints",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Beginner-Friendly Projects",
+            "url": "https://github.com/MunGell/awesome-for-beginners",
+            "title": null,
+            "shortname": [
+                "MunGell/awesome-for-beginners",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Katas",
+            "url": "https://github.com/gamontal/awesome-katas",
+            "title": null,
+            "shortname": [
+                "gamontal/awesome-katas",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Tools for Activism",
+            "url": "https://github.com/drewrwilson/toolsforactivism",
+            "title": null,
+            "shortname": [
+                "drewrwilson/toolsforactivism",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Citizen Science",
+            "url": "https://github.com/dylanrees/citizen-science",
+            "title": null,
+            "shortname": [
+                "dylanrees/citizen-science",
+                "README.md"
+            ]
+        },
+        {
+            "text": "TAP",
+            "url": "https://github.com/sindresorhus/awesome-tap",
+            "title": null,
+            "shortname": [
+                "sindresorhus/awesome-tap",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "MQTT",
+            "url": "https://github.com/hobbyquaker/awesome-mqtt",
+            "title": null,
+            "shortname": [
+                "hobbyquaker/awesome-mqtt",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Hacking Spots",
+            "url": "https://github.com/diasdavid/awesome-hacking-spots",
+            "title": null,
+            "shortname": [
+                "diasdavid/awesome-hacking-spots",
+                "README.md"
+            ]
+        },
+        {
+            "text": "For Girls",
+            "url": "https://github.com/cristianoliveira/awesome4girls",
+            "title": null,
+            "shortname": [
+                "cristianoliveira/awesome4girls",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Vorpal",
+            "url": "https://github.com/vorpaljs/awesome-vorpal",
+            "title": null,
+            "shortname": [
+                "vorpaljs/awesome-vorpal",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Vulkan",
+            "url": "https://github.com/vinjn/awesome-vulkan",
+            "title": null,
+            "shortname": [
+                "vinjn/awesome-vulkan",
+                "README.md"
+            ]
+        },
+        {
+            "text": "LaTeX",
+            "url": "https://github.com/egeerardyn/awesome-LaTeX",
+            "title": null,
+            "shortname": [
+                "egeerardyn/awesome-LaTeX",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Economics",
+            "url": "https://github.com/antontarasenko/awesome-economics",
+            "title": null,
+            "shortname": [
+                "antontarasenko/awesome-economics",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Funny Markov Chains",
+            "url": "https://github.com/sublimino/awesome-funny-markov",
+            "title": null,
+            "shortname": [
+                "sublimino/awesome-funny-markov",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Bioinformatics",
+            "url": "https://github.com/danielecook/Awesome-Bioinformatics",
+            "title": null,
+            "shortname": [
+                "danielecook/Awesome-Bioinformatics",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Colorful",
+            "url": "https://github.com/Siddharth11/Colorful",
+            "title": null,
+            "shortname": [
+                "Siddharth11/Colorful",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Steam",
+            "url": "https://github.com/scholtzm/awesome-steam",
+            "title": null,
+            "shortname": [
+                "scholtzm/awesome-steam",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Bots",
+            "url": "https://github.com/hackerkid/bots",
+            "title": null,
+            "shortname": [
+                "hackerkid/bots",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Site Reliability Engineering",
+            "url": "https://github.com/dastergon/awesome-sre",
+            "title": null,
+            "shortname": [
+                "dastergon/awesome-sre",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Empathy in Engineering",
+            "url": "https://github.com/KimberlyMunoz/empathy-in-engineering",
+            "title": null,
+            "shortname": [
+                "KimberlyMunoz/empathy-in-engineering",
+                "README.md"
+            ]
+        },
+        {
+            "text": "DTrace",
+            "url": "https://github.com/xen0l/awesome-dtrace",
+            "title": null,
+            "shortname": [
+                "xen0l/awesome-dtrace",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Userscripts",
+            "url": "https://github.com/brunocvcunha/awesome-userscripts",
+            "title": null,
+            "shortname": [
+                "brunocvcunha/awesome-userscripts",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Pokémon",
+            "url": "https://github.com/tobiasbueschel/awesome-pokemon",
+            "title": null,
+            "shortname": [
+                "tobiasbueschel/awesome-pokemon",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "ChatOps",
+            "url": "https://github.com/exAspArk/awesome-chatops",
+            "title": null,
+            "shortname": [
+                "exAspArk/awesome-chatops",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Falsehood",
+            "url": "https://github.com/kdeldycke/awesome-falsehood",
+            "title": null,
+            "shortname": [
+                "kdeldycke/awesome-falsehood",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Domain-Driven Design",
+            "url": "https://github.com/heynickc/awesome-ddd",
+            "title": null,
+            "shortname": [
+                "heynickc/awesome-ddd",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Quantified Self",
+            "url": "https://github.com/woop/awesome-quantified-self",
+            "title": null,
+            "shortname": [
+                "woop/awesome-quantified-self",
+                "README.MD"
+            ]
+        },
+        {
+            "text": "SaltStack",
+            "url": "https://github.com/hbokh/awesome-saltstack",
+            "title": null,
+            "shortname": [
+                "hbokh/awesome-saltstack",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Web Design",
+            "url": "https://github.com/nicolesaidy/awesome-web-design",
+            "title": null,
+            "shortname": [
+                "nicolesaidy/awesome-web-design",
+                "README.md"
+            ]
+        },
+        {
+            "text": "JMeter",
+            "url": "https://github.com/aliesbelik/awesome-jmeter",
+            "title": null,
+            "shortname": [
+                "aliesbelik/awesome-jmeter",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Creative Coding",
+            "url": "https://github.com/terkelg/awesome-creative-coding",
+            "title": null,
+            "shortname": [
+                "terkelg/awesome-creative-coding",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "No-Login Web Apps",
+            "url": "https://github.com/aviaryan/awesome-no-login-web-apps",
+            "title": null,
+            "shortname": [
+                "aviaryan/awesome-no-login-web-apps",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Testing",
+            "url": "https://github.com/TheJambo/awesome-testing",
+            "title": null,
+            "shortname": [
+                "TheJambo/awesome-testing",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Free Software",
+            "url": "https://github.com/johnjago/awesome-free-software",
+            "title": null,
+            "shortname": [
+                "johnjago/awesome-free-software",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Framer",
+            "url": "https://github.com/podo/awesome-framer",
+            "title": null,
+            "shortname": [
+                "podo/awesome-framer",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Markdown",
+            "url": "https://github.com/BubuAnabelas/awesome-markdown",
+            "title": null,
+            "shortname": [
+                "BubuAnabelas/awesome-markdown",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Dev Fun",
+            "url": "https://github.com/mislavcimpersak/awesome-dev-fun",
+            "title": null,
+            "shortname": [
+                "mislavcimpersak/awesome-dev-fun",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Events in the Netherlands",
+            "url": "https://github.com/awkward/awesome-netherlands-events",
+            "title": null,
+            "shortname": [
+                "awkward/awesome-netherlands-events",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Healthcare",
+            "url": "https://github.com/kakoni/awesome-healthcare",
+            "title": null,
+            "shortname": [
+                "kakoni/awesome-healthcare",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Magento 2",
+            "url": "https://github.com/DavidLambauer/awesome-magento2",
+            "title": null,
+            "shortname": [
+                "DavidLambauer/awesome-magento2",
+                "README.md"
+            ]
+        },
+        {
+            "text": "TikZ",
+            "url": "https://github.com/xiaohanyu/awesome-tikz",
+            "title": null,
+            "shortname": [
+                "xiaohanyu/awesome-tikz",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Neuroscience",
+            "url": "https://github.com/analyticalmonk/awesome-neuroscience",
+            "title": null,
+            "shortname": [
+                "analyticalmonk/awesome-neuroscience",
+                "readme.md"
+            ]
+        },
+        {
+            "text": "Ad-Free",
+            "url": "https://github.com/johnjago/awesome-ad-free",
+            "title": null,
+            "shortname": [
+                "johnjago/awesome-ad-free",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Esolangs",
+            "url": "https://github.com/angrykoala/awesome-esolangs",
+            "title": null,
+            "shortname": [
+                "angrykoala/awesome-esolangs",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Prometheus",
+            "url": "https://github.com/roaldnefs/awesome-prometheus",
+            "title": null,
+            "shortname": [
+                "roaldnefs/awesome-prometheus",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Homematic",
+            "url": "https://github.com/hobbyquaker/awesome-homematic",
+            "title": null,
+            "shortname": [
+                "hobbyquaker/awesome-homematic",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Ledger",
+            "url": "https://github.com/sfischer13/awesome-ledger",
+            "title": null,
+            "shortname": [
+                "sfischer13/awesome-ledger",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Uncopyright",
+            "url": "https://github.com/johnjago/awesome-uncopyright",
+            "title": null,
+            "shortname": [
+                "johnjago/awesome-uncopyright",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Crypto Currency Tools & Algorithms",
+            "url": "https://github.com/kennethreitz/awesome-coins",
+            "title": null,
+            "shortname": [
+                "kennethreitz/awesome-coins",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Diversity",
+            "url": "https://github.com/folkswhocode/awesome-diversity",
+            "title": null,
+            "shortname": [
+                "folkswhocode/awesome-diversity",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Open Source Supporters",
+            "url": "https://github.com/zachflower/awesome-open-source-supporters",
+            "title": null,
+            "shortname": [
+                "zachflower/awesome-open-source-supporters",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Design Principles",
+            "url": "https://github.com/robinstickel/awesome-design-principles",
+            "title": null,
+            "shortname": [
+                "robinstickel/awesome-design-principles",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Visual Regression Testing",
+            "url": "https://github.com/mojoaxel/awesome-regression-testing",
+            "title": null,
+            "shortname": [
+                "mojoaxel/awesome-regression-testing",
+                "README.md"
+            ]
+        },
+        {
+            "text": "Theravada",
+            "url": "https://github.com/johnjago/awesome-theravada",
+            "title": null,
+            "shortname": [
+                "johnjago/awesome-theravada",
+                "README.md"
+            ]
+        },
+        {
+            "text": "inspectIT",
+            "url": "https://github.com/inspectit-labs/awesome-inspectit",
+            "title": null,
+            "shortname": [
+                "inspectit-labs/awesome-inspectit",
+                "README.md"
+            ]
+        }
+    ],
+    "commit_hash": "c31259beaf54ccfa8b2474a1eb51ed43a9be710c",
+    "datetime": "2018-05-12T20:26:34.139994"
+}

@@ -1,0 +1,3 @@
+brew install librsvg
+rsvg-convert -h 22 icon.svg > icon.png
+rsvg-convert -h 44 icon.svg > icon@2x.png
